@@ -1,0 +1,13 @@
+.hero {
+  background-color: #c5cae9;
+  padding: 60px 45px;
+  
+}
+
+.hero-inner {
+  max-width:760px;
+}
+
+
+Light purple takes fully of bg color, while texts only takes 
+760px.

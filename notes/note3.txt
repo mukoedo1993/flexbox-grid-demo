@@ -1,0 +1,4 @@
+a element by default is inline element
+rather than block element.
+A block element will take full available space 
+and will sit on the new line by default.
