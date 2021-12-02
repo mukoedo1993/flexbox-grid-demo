@@ -94,7 +94,7 @@ body {
     it will give you give horizontal center <- horizontal margin zero
     */
     display: grid;
-    grid-template-columns: repeat(3, minmax(300px, 1fr));/*3 ones*/
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));/*3 ones*/
     /*1fr: one equal parts of equal space(fractional unit)*/
     /*minmax: give min and max values of width for each grid.*/
     
